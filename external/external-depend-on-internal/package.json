@@ -1,0 +1,11 @@
+{
+  "name": "@kenrick95/external-depend-on-internal-dep",
+  "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "dependencies": {
+    "@kenrick95/internal-f": "^1.0.0"
+  }
+}

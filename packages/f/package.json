@@ -1,0 +1,11 @@
+{
+  "name": "@kenrick95/internal-f",
+  "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.0"
+  }
+}

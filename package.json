@@ -1,0 +1,11 @@
+{
+  "name": "pnpm-testing-repro-deep-install-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf packages/f/node_modules && rm -rf packages/g/node_modules && rm -rf node_modules"
+  },
+  "author": "",
+  "license": "ISC"
+}
